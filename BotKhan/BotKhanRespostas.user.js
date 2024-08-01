@@ -113,8 +113,8 @@ let item, question;
 
             if (!window.loaded) {
                 console.clear();
-                console.log("%c Answer Revealer ", "color: mediumvioletred; -webkit-text-stroke: .5px black; font-size:40px; font-weight:bolder; padding: .2rem;");
-                console.log("%cCreated by Alex Dubov (@Zledr1$)", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
+                console.log("%c Respostas Aqui!", "color: mediumvioletred; -webkit-text-stroke: .5px black; font-size:40px; font-weight:bolder; padding: .2rem;");
+                console.log("%cAtualizado por: AlbedoPrime (@Zledr1$)", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
                 window.loaded = true;
             }
 
