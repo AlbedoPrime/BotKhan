@@ -1,2 +1,2 @@
 # BotKhan
-Bot Khan Academy
+Bot Khan Academy atualizado para portugês brasileiro! 
